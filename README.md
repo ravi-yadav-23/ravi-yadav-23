@@ -19,7 +19,7 @@ Recently that meant an autonomous IPO platform, an AI career coach, and fixing W
 
 - Selected for **Amazon ML Summer School '26**, top 2% of 1.4L+ applicants
 - **Google Big Code '26**, top 1500 nationally after 2 rounds
-- **8 merged open-source PRs**, including HackerRank's hiring-agent and StashBase
+- **10+ merged open-source PRs**, including HackerRank's hiring-agent and StashBase
 
 ---
 
@@ -38,17 +38,17 @@ Recently that meant an autonomous IPO platform, an AI career coach, and fixing W
 
 ## Experience
 
-**Software Engineering Intern** @ LearnDevs *(Jul 2026 – Sep 2026)*
+**Software Engineering Intern** @ LearnDevs *(Jul 2026 – Sep 2026)*  <br>
 Playwright + Python scraper keeping 20,000+ courses in MySQL up to date; composite indexes cut query latency by 35%.
 
-**Frontend Developer Intern** @ Eventviewz *(Oct 2025 – Nov 2025)*
+**Frontend Developer Intern** @ Eventviewz *(Oct 2025 – Nov 2025)*  <br>
 Event pages, registration flows and the admin interface for a platform with 10,000+ users; cut page-load time (LCP) by 40%.
 
 ---
 
 ## Open Source
 
-Merged PRs to [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pull/200) (Gemini rate-limit retries with exponential backoff), [StashBase](https://github.com/liliu-z/stashbase/pulls?q=is%3Apr+author%3Aravi-yadav-23+is%3Amerged) (4 PRs: Windows build and CI fixes, re-enabled 370 silently skipped tests), [Sugar Labs](https://github.com/sugarlabs/www-v2/pull/842), [Rajniti](https://github.com/imsks/Rajniti/pull/160) and [The Boring Education](https://github.com/The-Boring-Education/TBE-Web/pull/12).
+Merged PRs to [HackerRank hiring-agent](https://github.com/interviewstreet/hiring-agent/pull/200) (Gemini rate-limit retries with exponential backoff), [StashBase](https://github.com/liliu-z/stashbase/pulls?q=is%3Apr+author%3Aravi-yadav-23+is%3Amerged) (9 PRs: Windows build and CI fixes, re-enabled 370 silently skipped tests), [Sugar Labs](https://github.com/sugarlabs/www-v2/pull/842), [Rajniti](https://github.com/imsks/Rajniti/pull/160) and [The Boring Education](https://github.com/The-Boring-Education/TBE-Web/pull/12).
 
 ---
 
